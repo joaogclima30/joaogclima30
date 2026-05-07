@@ -4,14 +4,7 @@
 
 Me chamo João Gabriel , tenho 18 anos e sou natural de São Luis do Maranhão. Faço Engenharia da computação na Universidade Estadual do Maranhão. Atualmente, Estudo Java e Spring Boot com o foco em backend querendo sempre evoluir cada vem mais.
 ---
-<p align="center">
-  <a href="https://stars.github.com/profiles/denvercoder1/">
-    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
-</p>
-
 ### 🤖 Linguagens e Tecnologias
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 
 
 <img 
